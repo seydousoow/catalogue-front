@@ -1,28 +1,15 @@
-# Catalogue
+TestAppli: Gestion de stock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
+TestAppli est une application Restful permettant la gestion du stock de produits.
+Installation
 
-## Development server
+Assurez-vous de disposer npm installe sur votre machine ou cliquez sur ce lien afin de proceder a l'installation.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Importez le projet dans votre IDE ou éditeur de texte préféré et démarrez le projet à l'aide de la commande suivante:
 
-## Code scaffolding
+npm start
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+L'application ouvrira automatiquement votre navigateur Internet. Utiliser comme nom d'utilisateur et mot de passe test afin de vous connecter.
+Usage
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# catalogue-front
+Veuillez trouver le serveur de cette application ICI et suivez les informations afin de pouvoir l'installer. Il est requis afin de pouvoir utiliser cette application.
